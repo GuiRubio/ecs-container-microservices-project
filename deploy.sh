@@ -1,3 +1,4 @@
+#!/bin/bash
 REGION=$1
 STACK_NAME=$2
 
